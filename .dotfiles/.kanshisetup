@@ -1,0 +1,8 @@
+profile Dock {
+    output eDP-1 disable
+    output DP-1 enable
+}
+
+profile Laptop {
+    output eDP-1 enable
+}

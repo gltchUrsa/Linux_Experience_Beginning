@@ -1,20 +1,10 @@
 {
-    "workbench.colorTheme": "Gruvbox Dark Hard",
-    "workbench.activityBar.location": "default",
     "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
     "workbench.sideBar.location": "right",
-    "workbench.iconTheme": "material-icon-theme",
-    "material-icon-theme.hidesExplorerArrows": true,
     "workbench.tree.enableStickyScroll": false,
-    "workbench.tree.renderIndentGuides": "none",
-    "workbench.tree.indent": 8,
-    "explorer.compactFolders": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false,
-    "window.titleBarStyle": "custom",
     "window.menuBarVisibility": "toggle",
-    "workbench.startupEditor": "none"
+    "window.titleBarStyle": "native",
+    "workbench.startupEditor": "none",
 }
